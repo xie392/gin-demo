@@ -8,3 +8,9 @@ docker-compose up --build
 docker-compose build
 docker-compose up -d
 ``` -->
+
+# 检查容器
+
+```shell
+docker-compose run app sh
+```
