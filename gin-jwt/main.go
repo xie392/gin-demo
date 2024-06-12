@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-var jwtKey = []byte("your_secret_key")
+var jwtKey = []byte("secret_key")
 
 // 用户模型
 type User struct {

@@ -20,11 +20,10 @@
 16. [gin-cors](./gin-cors): 跨域请求
 17. [gin-ratelimit](./gin-ratelimit): 限流
 18. [gin-grpc](./gin-grpc): gRPC 集成
-19. [gin-graphql](./gin-graphql): GraphQL 集成
-20. [gin-oauth2](./gin-oauth2): OAuth2 集成
-21. [gin-mq](./gin-mq): 消息队列集成
-22. [gin-sse](./gin-sse): Server-Sent Events 集成
-23. [gin-cron](./gin-cron): 定时任务集成
+19. [gin-oauth2](./gin-oauth2): OAuth2 集成
+20. [gin-mq](./gin-mq): 消息队列集成
+21. [gin-sse](./gin-sse): Server-Sent Events 集成
+22. [gin-cron](./gin-cron): 定时任务集成
 
 # 进阶
 
